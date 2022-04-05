@@ -3,3 +3,4 @@ pytorch_model.bin
 sentences.csv
 training_args.bin
 config.json
+.ipynb_checkpoints
